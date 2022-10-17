@@ -1,0 +1,2 @@
+# Fotoelasticidad
+Grafica RGB  Fotoelasticidad
